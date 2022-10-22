@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-deep-kma",
+  "displayName": "one-dark-deep",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OneDarkDeep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDarkDeep-color-theme.json"
+      }
+    ]
+  }
+}
